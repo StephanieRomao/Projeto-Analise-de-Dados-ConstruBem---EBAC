@@ -1,5 +1,7 @@
 # Projeto-Analise-de-Dados-ConstruBem---EBAC
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 Aulas de 18 a 25 de Outubro de 2022
 A EBAC disponibilizou um intensivo passando pelas principais ferramentas de extração, tratamento e analise de dados.
 Foram utilizados dados fictícios de uma construtora para analisarmos as vendas realizadas e o potencial de venda. Ou seja, analisamos não só o que entrou, mas as oportunidades que a empresa está "perdendo".
